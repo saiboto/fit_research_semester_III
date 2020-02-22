@@ -1,2 +1,2 @@
 # fit_research_semester_III
-Study on the feasibility of IoT technology LoRaWAN in the forest and environmental sector.
+Technical documentation on the feasibility of the IoT technology LoRaWAN in the forestry and environmental sector Performed at the J.H. v. Thuenen-Institute, Department of Forest Ecology and Biodiversity under Dr.Tanja Sanders. This documentation serves as proof of the feasibility study which was carried out during the research semester of the Forest Information Technology course at the University for Sustainable Developemt in Eberswalde.
