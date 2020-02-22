@@ -3,5 +3,5 @@ Project documentation on the feasibility of the IoT technology LoRaWAN in the fo
 
 ![pic1_britz](https://user-images.githubusercontent.com/57041076/75095818-51442880-5599-11ea-864a-949eaae4b699.jpg)
 # Description
-# about lorawan
+# About LoRaWAN
 
