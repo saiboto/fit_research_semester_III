@@ -6,7 +6,7 @@ Project documentation on the feasibility of the IoT technology LoRaWAN in the fo
 
 ![pic1_britz](https://user-images.githubusercontent.com/57041076/75095818-51442880-5599-11ea-864a-949eaae4b699.jpg)
 
-## About the project
+### About the project
 This project is divided into three parts:
 
 - Part 1. Providing the infrastructure of gateways for communication
@@ -16,7 +16,7 @@ This project is divided into three parts:
 ## Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
 
-## Parts list for a self-built gateway:
+### Parts list for a self-built gateway:
 **Enclosure**
 - Nebra IP67 Waterproof/Weatherproof Enclosure                
 - Pigtail U.FL -> N                                            	
@@ -32,7 +32,7 @@ This project is divided into three parts:
 - Backplane (DIY) 
 - Rapsberry pi 2b+/3b+ 				                          		  
 - cables & other small parts	
-## Total costs ~ 370€
+### Total costs ~ 370€
 
 ![lora_doku_gw3](https://user-images.githubusercontent.com/57041076/75116215-4a371c00-5666-11ea-918d-65fdb0b1a432.jpg)
 
