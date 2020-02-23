@@ -40,3 +40,4 @@ This project is divided into three parts:
 
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
+### Part 2. Assembly of the node and programming
