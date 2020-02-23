@@ -1,22 +1,22 @@
 # Under construction!!!
 
 # FIT_Research_semester_III 
-### Description
+## Description
 Project documentation on the feasibility of the IoT technology LoRaWAN in the forestry and environmental sector, carried out at the J.H. v. Thuenen Institute, Department of Forest Ecology and Biodiversity. This feasibility study was carried out during the research semester of the study course Forest Information Technology at the University for Sustainable Development in Eberswalde
 
 ![pic1_britz](https://user-images.githubusercontent.com/57041076/75095818-51442880-5599-11ea-864a-949eaae4b699.jpg)
 
-### About the project
+## About the project
 This project is divided into three parts:
 
 - Part 1. Providing the infrastructure of gateways for communication
 - Part 2. Assembly of the node and programming
 - Part 3. Data storage and visualization
 
-### Part 1. Providing the infrastructure of gateways for communication
+## Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
 
-### Parts list for a self-built gateway:
+## Parts list for a self-built gateway:
 **Enclosure**
 - Nebra IP67 Waterproof/Weatherproof Enclosure                
 - Pigtail U.FL -> N                                            	
@@ -32,7 +32,7 @@ This project is divided into three parts:
 - Backplane (DIY) 
 - Rapsberry pi 2b+/3b+ 				                          		  
 - cables & other small parts	
-### Total costs ~ 370€
+## Total costs ~ 370€
 
 ![lora_doku_gw3](https://user-images.githubusercontent.com/57041076/75116215-4a371c00-5666-11ea-918d-65fdb0b1a432.jpg)
 
@@ -40,9 +40,9 @@ This project is divided into three parts:
 
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
-### Part 2. Assembly of the node and programming
+## Part 2. Assembly of the node and programming
 
-### Part 3. Data storage and visualization
+## Part 3. Data storage and visualization
 
 ![lora_grafana](https://user-images.githubusercontent.com/57041076/75118363-bc652c00-5679-11ea-895d-97190ebf6168.png)
 
