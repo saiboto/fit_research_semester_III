@@ -26,9 +26,11 @@ This project is divided into three parts:
 - Outddor-Patchkabel (CAT6)						                       
 
 **Electronic components**
-- iC880A-SPI - LoRaWAN Concentrator 868 MHz 			           
+- iC880A-SPI - LoRaWAN Concentrator 868 MHz (IMST GmbH)			           
+- Backplane DIY 
 - Rapsberry pi 2b+/3b+ 				                          		  
-- cables & other small parts						                      
+- cables & other small parts	
 
-![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
+![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
+
