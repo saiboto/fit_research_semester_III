@@ -17,7 +17,7 @@ This project is divided into three parts:
 ### Parts list for a self-built gateway:
 **Enclosure**
 - Nebra IP67 Waterproof/Weatherproof Enclosure                
-- Pigtail U.FL → N                                            	
+- Pigtail U.FL -> N                                            	
 - Delock LoRA 868Mhz Antenna N Buchse 3 dBi 32 cm			        
 
 **Power supply** 
