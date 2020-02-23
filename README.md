@@ -12,16 +12,3 @@ This project is divided into three parts:
 - Part 3. Data storage and visualization
 
 ### Part 1. Providing the infrastructure of gateways for communication
-
-test+-------------------------+                             +------------------------------------+                               +----------------------------------+
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |  +------------------------> |                                    | +------------------------->   |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test|                         |                             |                                    |                               |                                  |
-test+-------------------------+                             +------------------------------------+                               +----------------------------------+
