@@ -46,6 +46,6 @@ This project is divided into three parts:
 # Part 2. Assembly of the node and programming
 
 # Part 3. Data storage and visualization
-
+nodered, influxDB and fancy grafana
 ![lora_grafana](https://user-images.githubusercontent.com/57041076/75118363-bc652c00-5679-11ea-895d-97190ebf6168.png)
 
