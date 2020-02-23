@@ -31,6 +31,7 @@ This project is divided into three parts:
 - Rapsberry pi 2b+/3b+ 				                          		  
 - cables & other small parts	
 
+![lora_doku_gw3](https://user-images.githubusercontent.com/57041076/75116215-4a371c00-5666-11ea-918d-65fdb0b1a432.jpg)
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
