@@ -13,10 +13,10 @@ This project is divided into three parts:
 - Part 2. Assembly of the node and programming
 - Part 3. Data storage and visualization
 
-## Part 1. Providing the infrastructure of gateways for communication
+# Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
 
-### Parts list for a self-built gateway:
+## Parts list for a self-built gateway:
 **Enclosure**
 - Nebra IP67 Waterproof/Weatherproof Enclosure                
 - Pigtail U.FL -> N                                            	
@@ -40,9 +40,9 @@ This project is divided into three parts:
 
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
-## Part 2. Assembly of the node and programming
+# Part 2. Assembly of the node and programming
 
-## Part 3. Data storage and visualization
+# Part 3. Data storage and visualization
 
 ![lora_grafana](https://user-images.githubusercontent.com/57041076/75118363-bc652c00-5679-11ea-895d-97190ebf6168.png)
 
