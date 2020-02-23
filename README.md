@@ -12,4 +12,4 @@ This project is divided into three parts:
 - Part 3. Data storage and visualization
 
 ### Part 1. Providing the infrastructure of gateways for communication
-![test1](https://user-images.githubusercontent.com/57041076/75112288-a7b97180-5642-11ea-8a54-afdf6798d79e.png)
+
