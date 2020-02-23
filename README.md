@@ -15,3 +15,17 @@ This project is divided into three parts:
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
 
 ### Parts list for a self-built gateway:
+**Enclosure**
+- Nebra IP67 Waterproof/Weatherproof Enclosure		         ~ 70€
+- Pigtail U.FL → N 				      			                         ~ 10€	
+- HORIZON 868-8V1 LoRA-Antenna				                 ~ 70€
+
+**Power supply** 
+- DSLRKIT Gigabit Ethernet Active PoE Splitter 5V Micro USB	~ 10€
+- Ubiquiti POE-48-24W-G PoE Injektor				                ~ 15€
+- Outddor-Patchkabel (CAT6)						        ~ 15€
+
+**Electronic components**
+- iC880A-SPI - LoRaWAN Concentrator 868 MHz 			~150€
+- Rapsberry pi 2b+/3b+ 				                         		~35€
+- cables & other small parts						                ~20€
