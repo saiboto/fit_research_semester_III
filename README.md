@@ -12,4 +12,4 @@ This project is divided into three parts:
 - Part 3. Data storage and visualization
 
 ### Part 1. Providing the infrastructure of gateways for communication
-
+![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
