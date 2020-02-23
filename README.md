@@ -30,6 +30,7 @@ This project is divided into three parts:
 - Backplane (DIY) 
 - Rapsberry pi 2b+/3b+ 				                          		  
 - cables & other small parts	
+### Total costs ~ 370€
 
 ![lora_doku_gw3](https://user-images.githubusercontent.com/57041076/75116215-4a371c00-5666-11ea-918d-65fdb0b1a432.jpg)
 
