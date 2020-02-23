@@ -12,3 +12,4 @@ This project is divided into three parts:
 - Part 3. Data storage and visualization
 
 ### Part 1. Providing the infrastructure of gateways for communication
+[test1.txt](https://github.com/saiboto/fit_research_semester_III/files/4241241/test1.txt)
