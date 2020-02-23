@@ -30,7 +30,7 @@ This project is divided into three parts:
 **Electronic components**
 - iC880A-SPI - LoRaWAN Concentrator 868 MHz (IMST GmbH)			           
 - Backplane (DIY) 
-- Rapsberry pi 2b+/3b+ 				                          		  
+- Raspberry pi 2b+/3b+ 				                          		  
 - cables & other small parts	
 ### Total costs ~ 370€
 
