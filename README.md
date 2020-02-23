@@ -7,10 +7,8 @@ Project documentation on the feasibility of the IoT technology LoRaWAN in the fo
 ### About the project
 This project is divided into three parts:
 
-    Part 1. Providing the infrastructure of gateways for communication
-
-    Part 2. Assembly of the node and programming
-
-    Part 3. Data storage and visualization
+- Part 1. Providing the infrastructure of gateways for communication
+- Part 2. Assembly of the node and programming
+- Part 3. Data storage and visualization
 
 
