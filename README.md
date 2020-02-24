@@ -49,5 +49,7 @@ This project is divided into three parts:
 nodered, influxDB and "fancy :)" grafana
 ![lora_doku_nodered](https://user-images.githubusercontent.com/57041076/75171663-48379080-572c-11ea-85af-91a5eda60a23.png)
 
-![lora_grafana](https://user-images.githubusercontent.com/57041076/75118363-bc652c00-5679-11ea-895d-97190ebf6168.png)
+![lora_doku_grafana](https://user-images.githubusercontent.com/57041076/75186083-89896980-5747-11ea-8c5d-93e1e6d100af.png)
+
+
 
