@@ -51,5 +51,6 @@ nodered, influxDB and "fancy :)" grafana
 
 ![lora_doku_grafana](https://user-images.githubusercontent.com/57041076/75186083-89896980-5747-11ea-8c5d-93e1e6d100af.png)
 
+![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
 
 
