@@ -17,7 +17,7 @@ This project is divided into three parts:
 
 # Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
-[blackplane1](https://user-images.githubusercontent.com/57041076/78673284-3546dd00-78e2-11ea-996c-c97587c80db0.jpg)
+![blackplane1](https://user-images.githubusercontent.com/57041076/78673284-3546dd00-78e2-11ea-996c-c97587c80db0.jpg)
 
 
 ## Parts list for a self-built gateway:
