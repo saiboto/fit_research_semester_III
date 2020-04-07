@@ -1,8 +1,7 @@
 ### Under construction!!!
 
 # FIT_Research_semester_III 
-![vision_lora](https://user-images.githubusercontent.com/57041076/78719738-bc1ca980-7924-11ea-97fd-542f86237018.jpg)
-
+![vision_lora](https://user-images.githubusercontent.com/57041076/78719938-1158bb00-7925-11ea-9dca-4286e3dd65c6.jpg)
 ## Description
 Project documentation on the feasibility of the IoT technology LoRaWAN in the forestry and environmental sector, carried out at the J.H. v. Thuenen Institute, Department of Forest Ecology and Biodiversity. This feasibility study was carried out during the research semester of the study course Forest Information Technology at the University for Sustainable Development in Eberswalde
 
