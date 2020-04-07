@@ -17,10 +17,7 @@ This project is divided into three parts:
 
 # Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
-![blackplane1](https://user-images.githubusercontent.com/57041076/78673284-3546dd00-78e2-11ea-996c-c97587c80db0.jpg)
 
-
-## Parts list for a self-built gateway:
 **Enclosure**
 - Nebra IP67 Waterproof/Weatherproof Enclosure                
 - Pigtail U.FL -> N                                            	
@@ -39,6 +36,7 @@ This project is divided into three parts:
 ### Total costs ~ 370€
 
 ![lora_doku_gw3](https://user-images.githubusercontent.com/57041076/75116215-4a371c00-5666-11ea-918d-65fdb0b1a432.jpg)
+![blackplane1](https://user-images.githubusercontent.com/57041076/78673284-3546dd00-78e2-11ea-996c-c97587c80db0.jpg)
 
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
 
