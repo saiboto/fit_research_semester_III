@@ -1,14 +1,7 @@
-// Hello LoRa Single Channel - ABP TTN Single Channel Packet Sender
-// Tutorial Link: https://learn.adafruit.com/the-things-network-for-feather/using-a-feather-32u4
-//
-// Adafruit invests time and resources providing this open source code.
-// Please support Adafruit and open source hardware by purchasing
-// products from Adafruit!
-//
-// Copyright 2015, 2016 Ideetron B.V.
-//
-// Modified by Brent Rubell for Adafruit Industries, 2018
-/************************** Configuration ***********************************/
+/****************************************************************************
+  By wb1 & saibot
+  
+************************** Configuration ***********************************/
 /* ++++ Payload Decoder in payload Format einsetzen, testen und speichern
  *  
  *  
@@ -29,7 +22,7 @@ Ende decoder ++++++
 #include <SPI.h>
 //#include <string.h> 
 #include <DS18B20.h>
-int port = 4; //io Port an dem sie 1820 angeschlossen sind
+int port = 4; //io Port 
 uint8_t selected;
 uint8_t sensor1[] = {40, 255, 152, 212, 113, 21, 2, 37};
 uint8_t sensor2[] = {40, 255, 82, 89, 5, 22, 3, 132};
@@ -42,11 +35,11 @@ uint16_t sensor1bytes;
 uint16_t sensor2bytes;
     
 // Network Session Key (MSB)
-uint8_t NwkSkey[16] = { 0x6C, 0x47, 0xE8, 0x36, 0xE1, 0x14, 0x30, 0x2B, 0x3C, 0xCD, 0x57, 0x3A, 0xDD, 0xD0, 0xB2, 0xD6 };
+uint8_t NwkSkey[16] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
 // Application Session Key (MSB)
-uint8_t AppSkey[16] = { 0xC9, 0x51, 0xF8, 0x54, 0x49, 0x68, 0x04, 0xCC, 0x10, 0xA4, 0xA3, 0x35, 0xDE, 0x6A, 0xA9, 0x12 };
+uint8_t AppSkey[16] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
 // Device Address (MSB)
-uint8_t DevAddr[4] = { 0x26, 0x01, 0x1E, 0x58 };
+uint8_t DevAddr[4] = { 0x00, 0x00, 0x00, 0x00 };
 /************************** Example Begins Here ***********************************/
 // Data Packet to Send to TTN
 unsigned char loraData[4]; // = {"hello LoRa"};
