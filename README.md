@@ -86,4 +86,5 @@ nodered, influxDB and "fancy :)" grafana
 
 ![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
 
-
+# You have not understood parts of this project, or you are stuck with a technical problem while trying it out. Send me an    
+# e-mail. tku837@hnee.de
