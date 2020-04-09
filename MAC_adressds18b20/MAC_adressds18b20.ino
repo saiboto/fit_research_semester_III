@@ -1,7 +1,8 @@
-
+***********************************************************
 // This sketch looks for 1-wire devices and
 // prints their addresses (serial number) to
 // the UART, in a format that is useful in Arduino sketches
+***********************************************************
 
 #include <OneWire.h>
 
