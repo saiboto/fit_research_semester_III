@@ -47,7 +47,7 @@ This project is divided into three parts:
 ## Commissioning of the gateway
 - rasbian lite version 9 on sd card (not buster v10) 
 
-https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
+  https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
 
 - create the file ssh (without ext. and without content) in boot
 
