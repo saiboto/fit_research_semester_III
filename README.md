@@ -45,6 +45,37 @@ This project is divided into three parts:
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
 ## Commissioning of the gateway
+1. rasbian lite version 9 on sd card (not buster v10) 
+
+https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
+
+2.1 create the file ssh (without ext. and without content) in boot
+
+2.2 from the zip file, add the two entries from the config.txt to the config.txt on the sd card at the end
+
+3. boot and log in with pi raspberry via ssh (read ip from dhcp-server)
+
+4. sudo su
+
+5. enter a password for root with passwd
+
+6. nano /etc/ssh/sshd_config => permitrootlogin remove comment and put yes with a space directly after permit... and delete the rest in the line
+
+7. restart ssh /etc/init.d/ssh restart
+
+8. reboot pi 
+
+9. unzip the files in the attachment and copy them to /root. Grant execution rights to all files except config.txt.
+
+change to /root
+
+10. in_1... enter the name of the gateway
+
+11. execute ttn_setup-01.sh (pass input with enter, you will be asked for something later)
+
+12. after the boot switch back to root and execute ttn_setup-02. Then reboot again and overlayFS is installed. If you need to change anything, always disable lpie first, then reboot, make changes and finally enable overlayFS again with lpie enable and reboot.
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 # Part 2. Assembly of the node and programming
