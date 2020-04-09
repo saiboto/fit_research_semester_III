@@ -1,11 +1,10 @@
-/*******************************************************************************
-   Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
-   Copyright (c) 2018 Terry Moore, MCCI
+/*************************************************************************************
+   By Ablexomat & saibot 2019 
 
    Permission is hereby granted, free of charge, to anyone
    obtaining a copy of this document and accompanying files,
    to do whatever they want with them without any restriction,
-   including, but not limited to, copying, modification and redistribution.
+   including, but not limited to, copying, modification and redistribution. 
    NO WARRANTY OF ANY KIND IS PROVIDED.
 
    This uses OTAA (Over-the-air activation), where where a DevEUI and
@@ -25,7 +24,16 @@
    Do not forget to define the radio type correctly in
    arduino-lmic/project_config/lmic_project_config.h or from your BOARDS.txt.
 
- *******************************************************************************/
+   Avrdude has to be configured to ignore the changed chip ID of the AVR ATMega328PB 
+   when uploading a new Arduino sketch. This is done by adding a '-F' to the 
+   command line options of verbose mode for avrdude in Arduino's platform.txt document. 
+   There are two lines to edit. After this activate "verbose" 
+   mode for upload in the Arduino IDE preferences.
+
+   tools.avrdude.upload.params.verbose=-v -F
+   tools.avrdude.program.params.verbose=-v -F
+**************************************************************************************/
+
 #include <LowPower.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
