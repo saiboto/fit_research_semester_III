@@ -1,7 +1,9 @@
 /***********************************************************
-   This sketch looks for 1-wire devices and
-   prints their addresses (serial number) to
-   the UART, in a format that is useful in Arduino sketches
+   by saibot
+   
+   This sketch looks for 1-wire devices (ds18b20) and
+   prints their addresses (serial number) to the UART
+   in a format that is useful in Arduino sketches
 ************************************************************/
 
 #include <OneWire.h>
