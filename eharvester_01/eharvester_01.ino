@@ -32,6 +32,7 @@
 
    tools.avrdude.upload.params.verbose=-v -F
    tools.avrdude.program.params.verbose=-v -F
+   
 **************************************************************************************/
 
 #include <LowPower.h>
