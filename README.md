@@ -54,7 +54,7 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
 
 - from the zip file, add the two entries from the config.txt to the config.txt on the sd card at the end
 
-- boot and log in with pi raspberry via ssh (read ip from dhcp-server)
+- boot and log in with raspberry pi via ssh (read ip from dhcp-server)
 
 - sudo su
 
@@ -76,7 +76,7 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
 - execute ttn_setup-01.sh (pass input with enter, you will be asked for something later)
 
 - after the boot switch back to root and execute ttn_setup-02. Then reboot again and overlayFS is installed. If you need to     
-  change anything, always disable lpie first, then reboot, make changes and finally enable overlayFS again with lpie enable 
+  change anything, always disable lpie first, then reboot, make changes and finally enable overlayFS again with lpie, enable 
   and reboot.
 
 # Part 2. Assembly of the node and programming
