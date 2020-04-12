@@ -45,7 +45,38 @@ This project is divided into three parts:
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 
 ## Commissioning of the gateway
+- rasbian lite version 9 on sd card (not buster v10) 
 
+  https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
+
+- create the file ssh (without ext. and without content) in boot
+
+- from the zip file, add the two entries from the config.txt to the config.txt on the sd card at the end
+
+- boot and log in with pi raspberry via ssh (read ip from dhcp-server)
+
+- sudo su
+
+- enter a password for root with passwd
+
+- nano /etc/ssh/sshd_config => permitrootlogin remove comment and put yes with a space directly after permit... and delete   
+  the rest in the line
+
+- restart ssh /etc/init.d/ssh restart
+
+- reboot pi 
+
+- unzip the files in the attachment and copy them to /root. Grant execution rights to all files except config.txt.
+
+  change to /root
+
+- in_1... enter the name of the gateway
+
+- execute ttn_setup-01.sh (pass input with enter, you will be asked for something later)
+
+- after the boot switch back to root and execute ttn_setup-02. Then reboot again and overlayFS is installed. If you need to     
+  change anything, always disable lpie first, then reboot, make changes and finally enable overlayFS again with lpie enable 
+  and reboot.
 
 # Part 2. Assembly of the node and programming
 
@@ -55,4 +86,8 @@ nodered, influxDB and "fancy :)" grafana
 
 ![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
 
+## You have not understood parts of this project, or you are stuck with a technical problem while trying it out. Send me an e-mail or visit our TTN-Eberswalde community page.
+tku837(at)hnee.de
+
+https://www.thethingsnetwork.org/community/eberswalde/
 
