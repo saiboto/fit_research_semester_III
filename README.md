@@ -79,6 +79,8 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
 - after the boot switch back to root and execute ttn_setup-02. Then reboot again and overlayFS is installed. If you need to     
   change anything, always disable lpie first, then reboot, make changes and finally enable overlayFS again with lpie, enable 
   and reboot.
+  
+![Heatmap_EW](https://user-images.githubusercontent.com/57041076/79078997-886ac680-7d0c-11ea-93bb-87b1be900530.png)
 
 # Part 2. Assembly of the node and programming
 ![node2](https://user-images.githubusercontent.com/57041076/79074425-91e43680-7cec-11ea-9a9d-80a2b86a7321.jpg)
