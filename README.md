@@ -86,7 +86,7 @@ nodered, influxDB and grafana
 
 ![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
 
-## You have not understood parts of this project, or you are stuck with a technical problem while trying it out. Send me an e-mail or visit our TTN-Eberswalde community page.
+## If you need help with a technical problem or if you would like to know more about this project, please send me an E-Mail. You can also visit our TTN-Eberswalde community page. Thanks for you interesst and you input!
 tku837(at)hnee.de
 
 https://www.thethingsnetwork.org/community/eberswalde/
