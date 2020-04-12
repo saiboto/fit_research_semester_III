@@ -80,7 +80,7 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
 # Part 2. Assembly of the node and programming
 
 # Part 3. Data storage and visualization
-nodered, influxDB and "fancy :)" grafana
+nodered, influxDB and grafana
 ![lora_doku_nodered](https://user-images.githubusercontent.com/57041076/75171663-48379080-572c-11ea-85af-91a5eda60a23.png)
 
 ![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
