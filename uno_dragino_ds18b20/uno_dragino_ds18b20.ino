@@ -1,11 +1,11 @@
 /****************************************************************************
-  By wb1 & saibot
+  By wb1 & saibot 2020
   
 ************************** Configuration ***********************************/
-/* ++++ Payload Decoder in payload Format einsetzen, testen und speichern
+/* Payload Decoder for TTN
  *  
  *  
- *  Decode:
+ * Decode:
 function Decoder(bytes, port) {
 var meinwert1 = ((bytes[0] << 8) | bytes[1]) / 100;
 var meinwert2 = ((bytes[2] << 8) | bytes[3]) / 100
