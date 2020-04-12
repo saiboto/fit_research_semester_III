@@ -35,7 +35,7 @@ This project is divided into three parts:
 ### Total costs ~ 370€
 
 ![blackplane1](https://user-images.githubusercontent.com/57041076/78673284-3546dd00-78e2-11ea-996c-c97587c80db0.jpg)
-
+The shown backplane for Raspberry pi and iC880a not only serves to connect both components, but also to isolate unwanted frequencies from the Raspberry pi to the iC880A. 
 ![blackplane3](https://user-images.githubusercontent.com/57041076/78673683-c7e77c00-78e2-11ea-8c1f-184f03ca78a7.jpg)
 
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
