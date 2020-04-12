@@ -86,6 +86,7 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
 # Part 3. Data storage and visualization
 nodered, influxDB and grafana
 ![lora_doku_nodered](https://user-images.githubusercontent.com/57041076/75171663-48379080-572c-11ea-85af-91a5eda60a23.png)
+Node-RED is a visual tool for creating IoT prototypes by graphically connecting online services, APIs and hardware devices.
 
 ![scrennshot_grafana](https://user-images.githubusercontent.com/57041076/78503493-225bcd80-7767-11ea-8445-64cb7686b4b3.png)
 
