@@ -41,6 +41,7 @@ The shown backplane for Raspberry pi and iC880a not only serves to connect both 
 Circuit of the backplane
 
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
+Power supply and data line run via Power over ethernet (PoE)
 
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
 Ready-built gateway based on a Raspberry pi 3b+ and an iC880A 
