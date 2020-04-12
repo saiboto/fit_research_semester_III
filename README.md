@@ -41,6 +41,7 @@ This project is divided into three parts:
 ![lora_doku_gw2](https://user-images.githubusercontent.com/57041076/75115927-a9dff800-5663-11ea-8da8-a792499b60b2.jpg)
 
 ![lora_doku_gw1](https://user-images.githubusercontent.com/57041076/75115912-79985980-5663-11ea-9aa5-6189e7b346c4.jpg)
+Ready-built gateway based on a Raspberry pi 3b+ and an iC880A 
 
 ## Commissioning of the gateway
 - rasbian lite version 9 on sd card (not buster v10) 
