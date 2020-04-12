@@ -81,7 +81,7 @@ Ready-built gateway based on a Raspberry pi 3b+ and an iC880A
   and reboot.
   
 ![Heatmap_EW](https://user-images.githubusercontent.com/57041076/79078997-886ac680-7d0c-11ea-93bb-87b1be900530.png)
-
+Heatmap Eberswalde [Status 01.04.2020] 
 # Part 2. Assembly of the node and programming
 ![node2](https://user-images.githubusercontent.com/57041076/79074425-91e43680-7cec-11ea-9a9d-80a2b86a7321.jpg)
 
