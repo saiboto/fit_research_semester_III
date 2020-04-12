@@ -10,9 +10,9 @@ Node with connected sensor in Stevenson screen.
 ### About the project
 This project is divided into three parts:
 
-- Part 1. Providing the infrastructure of gateways for communication
-- Part 2. Assembly of the node and programming
-- Part 3. Data storage and visualization
+1. Building the local gateway infrastructure
+2. Construction and programming of the sensors/ nodes
+3. Data storage and visualization of the transmitted data.
 
 # Part 1. Providing the infrastructure of gateways for communication
 ![lora_flow](https://user-images.githubusercontent.com/57041076/75113741-97a88e80-5650-11ea-9d76-278c2c08c37a.png)
