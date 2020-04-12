@@ -86,7 +86,7 @@ Heatmap Eberswalde [Status 01.04.2020]
 ![node2](https://user-images.githubusercontent.com/57041076/79074425-91e43680-7cec-11ea-9a9d-80a2b86a7321.jpg)
 
 # Part 3. Data storage and visualization
-nodered, influxDB and grafana
+NodeRed, InfluxDB and Grafana
 ![lora_doku_nodered](https://user-images.githubusercontent.com/57041076/75171663-48379080-572c-11ea-85af-91a5eda60a23.png)
 Node-RED is a visual tool for creating IoT prototypes by graphically connecting online services, APIs and hardware devices.
 
