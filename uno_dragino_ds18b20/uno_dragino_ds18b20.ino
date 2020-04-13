@@ -1,8 +1,8 @@
 /**************************************************
-   
-   By wb1 & saibot 2020
-  
-************* Configuration **********************/
+      
+      By wb1 & saibot 2020
+      
+  ************* Configuration **********************/
 /* Payload Decoder for TTN
  *  
  *  
@@ -17,7 +17,7 @@ temp2: meinwert2
 }
 }
 }
-Ende decoder ++++++
+decoder end ++++++
  */
 #include <TinyLoRa.h>
 #include <SPI.h>
@@ -47,7 +47,7 @@ unsigned char loraData[4]; // = {"hello LoRa"};
 // How many times data transfer should occur, in seconds
 const unsigned int sendInterval = 60;
 // Pinout for Arduino Lora shield v1.4
-TinyLoRa lora = TinyLoRa(2, 10, 9); //Arduino lora shield v1.4
+TinyLoRa lora = TinyLoRa(2, 10, 9); //Arduino dragino lora shield v1.4
 void setup()
 {
  
@@ -62,9 +62,8 @@ void setup()
     Serial.println("Check your radio");
     while(true);
   }
-//++++++++ Sendeleistung auf 100 milliWatt (20 dbm) setzen
-// ++++++++++ wenn auskommentiert --> dann nur 17dbm
-// +++++++++++ kleinere Werte sind auch möglich
+//++++++++ Set transmission power to 100 milliWatt (20 dbm)
+// ++++++++++ if commented out --> then only 17dbm
 
   lora.setPower(20);
 
@@ -78,7 +77,7 @@ void loop()
     t1 = (ds.getTempC());
     selected = ds.select(sensor2);
     t2 = (ds.getTempC());
-// +++++++ zum Test, auskommentieren
+// +++++++ for testing, comment out
 Serial.println(t1);
 Serial.println(t2);
 // ++++++++
