@@ -1,8 +1,8 @@
 /**************************************************
       
-      By wb1 & saibot 2020
+      by wb1 & saiboto 2020
       
-  ************* Configuration **********************/
+************* Configuration **********************/
 /* Payload Decoder for TTN
  *  
  *  
